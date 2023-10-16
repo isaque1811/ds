@@ -1,1 +1,0 @@
-print("sergio é um bom professor")
