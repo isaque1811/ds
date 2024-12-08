@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background: linear-gradient(to right,rgb(168, 32, 157),rgb(243, 134, 238));
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #00bcd4; /* Ciano */
+    background: linear-gradient(to right,rgb(53, 9, 49),rgb(243, 134, 238));
     padding: 10px 0;
 }
 
@@ -38,7 +38,7 @@ nav ul li a:hover {
     max-width: 600px;
     margin: 20px auto;
     overflow: hidden;
-    border: 2px solid #00bcd4; /* Ciano */
+    border: 2px solid #7a155941; /* Ciano */
     border-radius: 10px;
 }
 
@@ -65,6 +65,7 @@ nav ul li a:hover {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #00bcd4; /* Ciano */
+    background: linear-gradient(to right,rgb(53, 9, 49),rgba(80, 12, 76, 0.514));
     color: white;
+    bottom: 0;
 }

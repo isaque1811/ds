@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e0f7fa; /* Cor ciano clara */
+    background: linear-gradient(to right,rgb(168, 32, 157),rgb(243, 134, 238));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,4 +60,11 @@ button:hover {
     to {
         opacity: 1;
     }
+}
+.container{
+     background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 0.5s;
 }
