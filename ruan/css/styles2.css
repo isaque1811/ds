@@ -67,5 +67,9 @@ footer {
     padding: 20px;
     background: linear-gradient(to right,rgb(194, 50, 182),rgba(255, 0, 238, 0.514));
     color: white;
-    bottom: 0;
+   
+}
+.tudo{
+    bottom:0;
+    margin-top: 20%;
 }
